@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": "eslint:recommended",
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "jsx": false,
+    "useJSXTextNode": true
+  }
+}

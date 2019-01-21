@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "build/output",
+    "sourceMap": true,
+    "declaration": false,
+    "module": "commonjs",
+    "target": "es5",
+    "strictNullChecks": true,
+    "baseUrl": "src",
+    "paths": {
+      "*": [
+        "./*"
+      ]
+    }
+  }
+}
